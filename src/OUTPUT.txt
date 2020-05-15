@@ -1,0 +1,42 @@
+Name: Quan Luu
+Student ID: 31529099
+NetID: qluu2
+Lab section: MW 6h15 - 7h30
+Project: 2
+So I will show the compile for the test cases in the homework assignment
+
+Compile:
+This is a program to solve the point-location problem
+You will be asked to input the number of lines you want to create, their coordinates, and the points' coordinates used for testing
+The result will then show up
+Enter number of lines: 
+5
+When you enter the lines' coordinates, make sure that each pair of points has at least one point as 0 or 1
+And also, the numbers always have to be between 0 and 1
+Enter line 1's coordinates(separated by a 'space'): 
+0 0.12 0.23 1
+Enter line 2's coordinates(separated by a 'space'): 
+1 0.41 0 0.52
+Enter line 3's coordinates(separated by a 'space'): 
+1 0.2 0.3 1
+Enter line 4's coordinates(separated by a 'space'): 
+0 0.4 0.1 0
+Enter line 5's coordinates(separated by a 'space'): 
+1 0.35 0.1 1
+Do you wish to test out the points on a graphical interface?
+Enter 'y' to change to graphics or 'n' to continue on console
+n
+Ok then
+Enter two points to begin test
+Enter first point's coordinate(separated by a 'space'): 
+0.25 0.8
+Enter second point's coordinate(separated by a 'space'): 
+0.6 0.5
+Line 1 crosses the two given points
+Number of external nodes: 12
+Average path length: 3.6666666666666665
+Do you wish to continue testing?
+Enter 'y' to continue or 'n' to quit
+Enter 'change' to change the original lines
+n
+Have a nice life!
